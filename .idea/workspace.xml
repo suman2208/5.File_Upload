@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578487083666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="error html">
+      <created>1578487125518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578487125518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +97,7 @@
     <MESSAGE value="make models.py" />
     <MESSAGE value="view and create.html commit" />
     <MESSAGE value="details html commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="details html commit" />
+    <MESSAGE value="error html" />
+    <option name="LAST_COMMIT_MESSAGE" value="error html" />
   </component>
 </project>
